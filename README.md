@@ -1,5 +1,3 @@
-Aquí tienes el README ajustado para **todos los addons de BeFX Studios**, y con la indicación correcta: **"BeFX Studios add-on version"**.
-
 ```markdown
 # BeFX Studios – Bug Reporting Guidelines
 
