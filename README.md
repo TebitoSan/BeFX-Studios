@@ -1,4 +1,3 @@
-```markdown
 # BeFX Studios – Bug Reporting Guidelines
 
 This repository is dedicated exclusively to reporting bugs and issues related to any BeFX Studios add-on.  
@@ -42,4 +41,4 @@ When creating an issue, please include:
 ---
 
 Following these guidelines ensures that issues can be reproduced, investigated, and resolved efficiently. Thank you for your cooperation.
-```
+
